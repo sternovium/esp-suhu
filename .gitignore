@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+bin/
+
+# Temporary files
+*.swp
+*~
+
+# Local settings
+.vscode/
